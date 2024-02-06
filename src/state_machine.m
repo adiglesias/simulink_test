@@ -7,6 +7,8 @@ espera_bit = 2;
 guarda_bit = 3;
 carga_out = 4;
 fin = 5;
+fghghgh
+
 
 % The state is a 3-bit register
 persistent state, state = xl_state(inicio,{xlUnsigned, 3, 0});
